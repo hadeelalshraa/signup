@@ -1,0 +1,75 @@
+
+#log{
+    margin-left: 40%;
+}
+#start{
+    margin-left: 38%;
+}
+.form{
+    margin-left: 30%;
+   
+}
+#name,#email,#pass{
+    margin-left: 60px;
+    width: 30%;
+    height: 5%;
+    border: none;
+    border-bottom:1px solid rgb(163, 161, 158);
+    outline: none;
+
+}
+.error{
+    font-size: 90%;
+    color: red;
+}
+
+#sign
+{
+    margin-left: 60px;
+    width: 30%;
+    height: 5%;
+    background: blue;
+    color: aliceblue;
+    border-radius:5px;
+
+
+}
+.para{
+margin-left: 34.7%;
+font-size: 80%;
+
+}
+#par{
+    width: 55%;
+}
+.line{
+    margin-left: 40%;
+}
+.punder{
+    margin-left: 36%;
+    color: gray;
+}
+#pass{
+    margin-bottom: 6px;
+}
+.parfooter , .foot{
+    color:gray;
+
+}
+.foot{
+    margin-left: 37%;
+}
+#img2{
+    margin-left: 37%;
+    visibility: hidden;
+}
+#img2 img{
+width: 20px;
+height: 20px;
+display:inline-block;
+margin-left: 10px;
+border: 1px solid #000;
+border-radius: 5px;
+padding: 10px;
+
+}
